@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.email           = 'nugetaad@microsoft.com'
   s.summary         = 'Azure Active Directory strategy for OmniAuth'
   s.description     = 'Allows developers to authenticate to AAD'
-  s.homepage        = 'https://github.com/AzureAD/omniauth-azure-activedirectory'
+  s.homepage        = 'https://github.com/carezone/omniauth-azure-activedirectory'
   s.license         = 'MIT'
 
   s.files           = `git ls-files`.split("\n")
